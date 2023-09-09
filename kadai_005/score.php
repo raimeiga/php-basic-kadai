@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<body>
+    <p>
 <?php
 $score1=80;
 $score2=60;
@@ -14,3 +19,6 @@ $total_points=$score1+$score2+$score3+$score4+$score5+$score6+$score7+$score8+$s
 //平均して出力
 echo $total_points / 10;
 ?>
+</p>
+</body>
+</html>
