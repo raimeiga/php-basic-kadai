@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="ja">
+<p>
 <?php
 class Food {
     private $name;
@@ -42,4 +45,6 @@ echo '<br>';
 $food->show_price(250);
 $animal->show_height(60);
 ?>
-
+</p>
+</body>
+</html>
